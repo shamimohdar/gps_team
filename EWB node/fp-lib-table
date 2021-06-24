@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ant-916-chp-t)(type KiCad)(uri C:/Users/Shami/Downloads/Soil-Moisture-Schematic-master/Soil-Moisture-Schematic-master/ANT-916-CHP-T/ant-916-chp-t.pretty)(options "")(descr ""))
+  (lib (name AZ1117CR-3.3)(type KiCad)(uri "C:/Users/Shami/Desktop/EWB/gps_team/EWB node/New folder/Library/IC_Diodes Inc._AZ1117CR-3.3TRG1/eec.pretty")(options "")(descr ""))
+)
