@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RFM95W-868S2)(type Legacy)(uri "${KIPRJMOD}/New folder/Library/Symbol/RFM95W-868S2.lib")(options "")(descr ""))
+  (lib (name U.FL-R-SMT-1_10_)(type Legacy)(uri "${KIPRJMOD}/New folder/Library/Symbol/U.FL-R-SMT-1_10_.lib")(options "")(descr ""))
+  (lib (name LM35DZ_NOPB)(type Legacy)(uri "${KIPRJMOD}/New folder/LM35DZ_NOPB.lib")(options "")(descr ""))
+)
